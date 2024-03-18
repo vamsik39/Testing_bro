@@ -1,0 +1,67 @@
+<!--bold tag-->
+<b>He gets applause allaround the corner</b>
+
+<i>He gets applause allaround the corner</i>
+
+<u> sachin is the best cricketer.</u>
+
+<small>India has a huge population.</small>
+
+<p></p>This nation will <strong>rise up</strong> and <strong>live up.</strong>
+
+<p>you are <sup>nothing</sup>infront of us.</p>
+
+<p> We are nothing<sub>infront</sub>of you.</p>
+
+<p>Your mindset will take you <del>to</del> the heights</p>
+
+<p>our mindset is the biggest <ins>strength</ins></p>
+<!--HTML colors-->
+
+<!doctype html>
+<html>
+    <header>
+        <title>colors</title>
+    </header>
+    <body>
+        <p style="color:red;">Beat me if you can.</p>
+        <p style="color:green;">Beat me if you can.</p>
+        <p style="color:orange;">Beat me if you can.</p>
+        <p style="color:tomato;">Beat me if you can.</p>
+        <p style="color:mediumpurple;">Beat me if you can.</p>
+        <p style="color:gray;">Beat me if you can.</p>
+        <p style="color:lightgray;">Beat me if you can.</p>
+        <p style="color:violet;">Beat me if you can.</p>
+        <p style="color:slateblue;">Beat me if you can.</p>
+    </body>
+</html>
+
+<!--HTML CSS STYLE TAG-->
+<!doctype html>
+<html>
+    <header>
+        <title>HTML CSS STYLES</title>
+        
+            <style>
+                h3{color:red;
+                margin-left: 10px;
+            }
+            .one{color: orangered;
+            margin-left:30px;
+        }
+        #one{color:blue;
+        }
+
+            </style>
+
+        <body>
+            <h3>Jadeja is the best fielder</h3>
+            <div class="one">
+                <p>I can run faster than you.</p>
+            </div>
+            <div id="one">
+                <p>Attitude and arrogance wont fetch you anything in life.</p>
+            </div>
+        </body>
+    
+</html>
